@@ -1,4 +1,4 @@
-﻿string firstName = "Teodor ";
+﻿string firstName = "Teodor";
 string lastName = "Denisov";
 Console.WriteLine(firstName + lastName);
 
